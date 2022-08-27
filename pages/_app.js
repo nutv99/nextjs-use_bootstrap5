@@ -11,3 +11,5 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp
+
+// https://www.npmjs.com/package/@madzadev/image-slider
